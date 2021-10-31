@@ -1,0 +1,14 @@
+1.Header
+	-navigation
+		+Home
+		+BAND
+		+Tour
+		+Contact
+		+More
+almost done!
+2.Content
+	-About
+	-Book
+	-Contact
+	-Map
+3.Footer
